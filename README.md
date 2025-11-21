@@ -10,7 +10,7 @@ I built the infrastructure using Terraform and tested the configuration locally 
 
 ![Architecture Diagram](diagram/cf-architecture-diagramv2.png)
 
----
+---  
 
 ## 2. Challenge Requirements (My Interpretation)
 
